@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="police_height_l">24sp</dimen>
+    <dimen name="police_height_xxl">72sp</dimen>
+    <dimen name="police_height_xl">48sp</dimen>
+    <dimen name="padding_buttons">50dp</dimen>
+
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textSize">@dimen/police_height_l</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:enabled">true</item>
+    </style>
+
+
+    <style name="SpaceStyle1">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/backgroundColor1</item>
+        <item name="android:textSize">@dimen/police_height_xxl</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:text"></item>
+    </style>
+
+    <style name="SpaceStyle2">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/backgroundColor1</item>
+        <item name="android:textSize">@dimen/police_height_xl</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:text"></item>
+    </style>
+
+</resources>

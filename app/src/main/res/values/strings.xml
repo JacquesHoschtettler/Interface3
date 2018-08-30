@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Interface3</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="button_1">France Culture</string>
+    <string name="button_2">OpenClassrooms</string>
+    <string name="button_3">Developper Android</string>
+
+    <string name="space">Empty Space</string>
+
+</resources>
